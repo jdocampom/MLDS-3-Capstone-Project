@@ -1,0 +1,10 @@
+numpy
+pandas
+matplotlib
+seaborn
+plotly
+pymongo
+IPython
+pyspark
+findspark
+bson
